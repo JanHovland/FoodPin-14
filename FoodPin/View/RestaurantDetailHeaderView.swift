@@ -2,8 +2,7 @@
 //  RestaurantDetailHeaderView.swift
 //  FoodPin
 //
-//  Created by Simon Ng on 8/9/2017.
-//  Copyright © 2017 AppCoda. All rights reserved.
+//  Created by Jan Hovland on 12/9/2018.
 //
 
 import UIKit
